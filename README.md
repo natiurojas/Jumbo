@@ -13,7 +13,7 @@ Scraper de promociones, productos y sucursales del supermercado **Jumbo Argentin
 # Instalar dependencias
 pip install playwright
 
-# Instalar el navegador Chromium
+# Instalar el navegador Chromium.
 python -m playwright install chromium
 ```
 
